@@ -1,5 +1,7 @@
 # BehindScenes
 
+This is one exercise. In this exercise I perform one task which simply display one array of object in the form of unordered list and three buttons with the help of this button we can add new objects in the array and change first key's value of all object which are in the array. when you click on the any button you can see in the browser's elements section how angular react on this changes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
